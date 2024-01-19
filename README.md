@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilan Dilruksha</h1>
 
-<h3 align="center">👋 Undergraduate at SLIIT |<h2>Passionate about C++, C, Java, HTML, CSS, JavaScript, MERN Stack, Kotlin, and Linux enthusiast.</h2> </h3>
+<h3 align="center">👋 Undergraduate at SLIIT |<h4>Passionate about C++, C, Java, HTML, CSS, JavaScript, MERN Stack, Kotlin, and Linux enthusiast.</h4> </h3>
 
 
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [charuka.com](charuka.com)
 
-- ⚡ Fun fact **I believe that the best code is a blend of precision and creativity, much like a well-crafted piece of art.**
+
 
 
 
