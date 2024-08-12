@@ -1,15 +1,15 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dilan Dilruksha</h1>
-<h3 align="center">👋 Undergraduate at SLIIT | Passionate about C++, C, Java, HTML, CSS, JavaScript, MERN Stack, Kotlin, and Linux enthusiast.</h3>
+<h3 align="center"> Undergraduate at SLIIT | Passionate about C++, C, Java, HTML, CSS, JavaScript, MERN Stack, Kotlin, and Linux enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilrukshax&label=Profile%20views&color=0e75b6&style=flat" alt="dilrukshax" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Restaurant management system.**
 
-- 🌱 I’m currently learning **Python**
+
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dilrukshax](https://github.com/dilrukshax)
 
@@ -17,9 +17,7 @@
 
 - 📫 How to reach me **dilandilruksha0@gmai.com**
 
-- 📄 Know about my experiences [charuka.com](charuka.com)
 
-- ⚡ Fun fact **I believe that the best code is a blend of precision and creativity, much like a well-crafted piece of art.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
