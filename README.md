@@ -3,13 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilrukshax&label=Profile%20views&color=0e75b6&style=flat" alt="dilrukshax" /> </p>
 
 # 💫 About Me:
-- 🎓 **Education**: Third-year Software Engineering student at SLIIT, specializing in Information Technology.
-- 📱 **Current Focus**: Learning Flutter for cross-platform mobile application development.
-- 💻 **Technical Skills**: Proficient in Java, C++, Python, and a range of other technologies.
-- 🌱 **Interests**: Passionate about mobile and web development, with a strong interest in sustainability and innovative tech solutions.
-- 🚀 **Project Highlight**: Proposed and working on 'UrbanGreen,' a smart city mobile application aimed at enhancing urban sustainability.
-- 🌍 **Community Involvement**: Actively shares projects on GitHub and engages with the tech community on LinkedIn.
-- 🎯 **Career Goals**: Aims to leverage technology for societal impact and seeks continuous growth as a software engineer.
+- 🎓 Third-year Software Engineering student at SLIIT.
+- 📱 Learning Flutter.
+- 🚀 Working on 'UrbanGreen' for urban sustainability.
+- 🌍 Active on GitHub and LinkedIn.
+- 🎯 Passionate about tech for societal impact.
 
 
 
