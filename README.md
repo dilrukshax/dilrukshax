@@ -9,16 +9,18 @@
 - 🌍 Active on GitHub and LinkedIn.
 - 🎯 Passionate about tech for societal impact.
 
-
-
+---
 
 <div align="center">
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/8d5d1118) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100077876269622) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/d_ilan_dilruksha) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilan-dilruksha)  
+
 </div>
+---
 
 
 # 💻 Tech Stack:
