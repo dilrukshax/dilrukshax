@@ -9,7 +9,7 @@
 - 🌍 Active on GitHub and LinkedIn.
 - 🎯 Passionate about tech for societal impact.
 
----
+
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilan-dilruksha)  
 
 </div>
----
+
 
 
 # 💻 Tech Stack:
