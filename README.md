@@ -2,7 +2,7 @@
 
 `Software Engineer`
 
-Hi! My name is Dilan Dilruksha, and I am a third-year Software Engineering undergraduate passionate about crafting innovative software solutions. Currently, I am completing my internship at ASP.NET Core., where I am sharpening my skills in building robust, scalable applications. With a strong foundation in software development and an eagerness to stay ahead of emerging technologies, I specialize in creating efficient, user-friendly systems that solve real-world problems.
+<p align='left'>Hi! My name is Dilan Dilruksha, and I am a third-year Software Engineering undergraduate passionate about crafting innovative software solutions. Currently, I am completing my internship at ASP.NET Core., where I am sharpening my skills in building robust, scalable applications. With a strong foundation in software development and an eagerness to stay ahead of emerging technologies, I specialize in creating efficient, user-friendly systems that solve real-world problems.</p>
 
 [![Behance](https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/8d5d1118) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/d_ilan_dilruksha) 
