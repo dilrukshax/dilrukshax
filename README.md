@@ -1,6 +1,6 @@
 # :zap: Dilan Dilruksha
 
-`Software Engineer` `full-stack development`
+`Software Engineer` `full-stack development` `ASP.NET Core` `C#`
 
 <p align='left'>Hi! My name is Dilan Dilruksha, and I am a passionate Software Engineer specializing in crafting innovative, user-friendly software solutions. With expertise in full-stack development and a strong foundation in modern frameworks like React, Angular, and ASP.NET Core, I excel at building scalable, robust applications that address real-world challenges. Always eager to embrace emerging technologies, I thrive on delivering efficient, impactful systems that blend functionality with seamless user experiences.</p>
 
