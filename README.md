@@ -1,6 +1,6 @@
 # :zap: Dilan Dilruksha
 
-`Software Engineer` `full-stack development` `ASP.NET Core` `C#`
+`Software Engineer` `full-stack development` `ASP.NET Core` `C#` `Spring Boot` `Java` `DevOps`
 
 <p align='left'>Hi! My name is Dilan Dilruksha, and I am a passionate Software Engineer specializing in crafting innovative, user-friendly software solutions. With expertise in full-stack development and a strong foundation in modern frameworks like React, Angular, and ASP.NET Core, I excel at building scalable, robust applications that address real-world challenges. Always eager to embrace emerging technologies, I thrive on delivering efficient, impactful systems that blend functionality with seamless user experiences.</p>
 
@@ -15,14 +15,14 @@
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-<!--   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" /> -->
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50"/> 
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-<!--   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" /> -->
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
