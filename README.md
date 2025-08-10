@@ -2,7 +2,10 @@
 
 `Software Engineer` `full-stack development` `ASP.NET Core` `C#` `Spring Boot` `Java` `DevOps`
 
-<p align='left'>Hi! My name is Dilan Dilruksha, and I am a passionate Software Engineer specializing in crafting innovative, user-friendly software solutions. With expertise in full-stack development and a strong foundation in modern frameworks like React, Angular, and ASP.NET Core, I excel at building scalable, robust applications that address real-world challenges. Always eager to embrace emerging technologies, I thrive on delivering efficient, impactful systems that blend functionality with seamless user experiences.</p>
+<p align='left'>I’m a passionate Software Engineer specializing in building **innovative, scalable, and user-friendly software solutions**.  
+With expertise in **.NET Core**, **Blazor**, **Angular**, **React**, and cloud-native technologies,  
+I thrive on creating **ERP-scale systems**, modern web apps, and impactful backend solutions.  
+</p>
 
 #
 [![Behance](https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/8d5d1118) 
