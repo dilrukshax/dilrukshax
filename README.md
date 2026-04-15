@@ -12,7 +12,7 @@ Alongside development, I am skilled in DevOps practices, including Docker contai
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilan-dilruksha) 
 #
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="50"/>
+  <!-- <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="50"/> -->
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
