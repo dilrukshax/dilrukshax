@@ -12,24 +12,20 @@ Alongside development, I am skilled in DevOps practices, including Docker contai
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilan-dilruksha) 
 #
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" /></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" /></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" /></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" /></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" /></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" /></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="50" height="50" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" /></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" /></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" /></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" /></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="50" height="50" /></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" /></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" />
+</p>
 
