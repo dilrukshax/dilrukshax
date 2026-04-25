@@ -7,9 +7,11 @@ Alongside development, I am skilled in DevOps practices, including Docker contai
 </p>
 
 #
+<p align="center">
 [![Behance](https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/8d5d1118) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/d_ilan_dilruksha) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilan-dilruksha) 
+</p>
 #
 
 <p align="center">
