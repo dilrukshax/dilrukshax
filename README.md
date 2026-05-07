@@ -39,7 +39,7 @@ Alongside development, I am skilled in DevOps practices, including Docker contai
 
 #
 
-<p align="center">
+<!-- <p align="center">
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
@@ -67,4 +67,4 @@ Alongside development, I am skilled in DevOps practices, including Docker contai
 
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
-</p>
+</p> -->
