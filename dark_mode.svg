@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="560px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="560px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">1{11)))))((((((((|||||({[)|))()))11{{}}}[[</tspan>
+<tspan x="15" y="50">))((((|||||||||\\){-&lt;&lt;!^^lI,"i)((()))11{{{</tspan>
+<tspan x="15" y="70">|||\\\\\\/tt//t|l'`'  .`.     "I+\||(()))1</tspan>
+<tspan x="15" y="90">\\\///ttttfffj["..'`.      ..    _/||||(((</tspan>
+<tspan x="15" y="110">//ttfffffjjjj~'`   '^:;I!l`      ,)/\\\|||</tspan>
+<tspan x="15" y="130">ffffjjjjrrrn?^'.;[{nXqwmXYz\&gt;`    ]f////\\</tspan>
+<tspan x="15" y="150">jjjrrrrrnnnc~ "?kWW*wnZoMdZc1[l  .(ftt////</tspan>
+<tspan x="15" y="170">jjrnnnnnnnnvf:^z&amp;#mX)-foM(~(()/!I(jfffttt/</tspan>
+<tspan x="15" y="190">rrnnnnnnnvvvqkcbWM*aqwba*ni-_i+(nnjjffffft</tspan>
+<tspan x="15" y="210">rrnnnvvvvvvCodWo&amp;B%MoobU*U[{(/}/nrrrjjjjff</tspan>
+<tspan x="15" y="230">rnnvvvvvvcvzdkbdWW&amp;WbqwUv[+{|(({rrrrjjjfff</tspan>
+<tspan x="15" y="250">nnnvvvvvcccvcUvwWWW#mCmUj(~~?11)cnnrrjjjff</tspan>
+<tspan x="15" y="270">nnnvvvvccccccvcqk**##*kXr(-+?\jvvnnnrrrjjf</tspan>
+<tspan x="15" y="290">nnnvvvvcccccccvdaqqdbakmU(??(vxcvvnnrrrjjf</tspan>
+<tspan x="15" y="310">nnvvvvvvvccvcxch&amp;#hkZzr\|{+{Ycccvnnrrrjjjf</tspan>
+<tspan x="15" y="330">nnvvvvvvvcxzz1w%&amp;W*#MhJ)++&lt;[cYxvnnrrjjjjjf</tspan>
+<tspan x="15" y="350">rnnnnvvxzxr|-lt$*MM#W*qj11]?[}jvccvrjjfjff</tspan>
+<tspan x="15" y="370">rrncxxv\-;^:I~Iz%XXk*aZrtr)U\ ',i?(fnvnrjf</tspan>
+<tspan x="15" y="390">vvj\[i:.  ^,;!!;k@wrvCYczYc@t      `I~[(tj</tspan>
+<tspan x="15" y="410">_l"'. .   .`^,lI_@BomnvXwXo&amp;z.          `,</tspan>
+<tspan x="15" y="430"> '`^^`.   ``'^,!,/kW$anJd**Xb+            </tspan>
+<tspan x="15" y="450">"'^^^`'. ..`''^:I^U$@$&amp;wZBqZMv            </tspan>
+<tspan x="15" y="470">I``"^`'''''.'.'^;"+o$@$$#bd&amp;&amp;C'           </tspan>
+<tspan x="15" y="490">                                          </tspan>
+<tspan x="15" y="510">                                          </tspan>
+<tspan x="15" y="530">                                          </tspan>
+</text>
+<text x="400" y="30" fill="#c9d1d9">
+<tspan x="400" y="30">dilruksha@github</tspan> ————————————————————————————————————
+<tspan x="400" y="50" class="cc">. </tspan><tspan class="key">Title</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Software Engineer</tspan>
+<tspan x="400" y="70" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">AI/ML &amp; Full-Stack Dev</tspan>
+<tspan x="400" y="90" class="cc">. </tspan>
+<tspan x="400" y="110" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Java, Python, C#</tspan>
+<tspan x="400" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">TypeScript, JavaScript, Dart</tspan>
+<tspan x="400" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Markup</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
+<tspan x="400" y="170" class="cc">. </tspan>
+<tspan x="400" y="190" class="cc">. </tspan><tspan class="key">Frameworks</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Spring Boot, ASP.NET Core, Django</tspan>
+<tspan x="400" y="210" class="cc">. </tspan><tspan class="key">Frameworks</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">React, Angular, Flutter, Blazor</tspan>
+<tspan x="400" y="230" class="cc">. </tspan><tspan class="key">Frameworks</tspan>.<tspan class="key">Database</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">MySQL, PostgreSQL, MongoDB</tspan>
+<tspan x="400" y="250" class="cc">. </tspan><tspan class="key">Frameworks</tspan>.<tspan class="key">Messaging</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Apache Kafka, Redis</tspan>
+<tspan x="400" y="270" class="cc">. </tspan>
+<tspan x="400" y="290" class="cc">. </tspan><tspan class="key">AI</tspan>.<tspan class="key">Models</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">CNN, RNN, LSTM, GNN</tspan>
+<tspan x="400" y="310" class="cc">. </tspan><tspan class="key">AI</tspan>.<tspan class="key">Tools</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">TensorFlow, PyTorch, Keras</tspan>
+<tspan x="400" y="330" class="cc">. </tspan><tspan class="key">AI</tspan>.<tspan class="key">Focus</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Medical Imaging &amp; Healthcare</tspan>
+<tspan x="400" y="350" class="cc">. </tspan>
+<tspan x="400" y="370" class="cc">. </tspan><tspan class="key">DevOps</tspan>.<tspan class="key">Containers</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Docker, Kubernetes</tspan>
+<tspan x="400" y="390" class="cc">. </tspan><tspan class="key">DevOps</tspan>.<tspan class="key">Cloud</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">AWS (EKS), Azure</tspan>
+<tspan x="400" y="410" class="cc">. </tspan><tspan class="key">DevOps</tspan>.<tspan class="key">CI/CD</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">GitHub Actions, Azure DevOps</tspan>
+<tspan x="400" y="430"></tspan>- Passions ————————————————————————————————————————————
+<tspan x="400" y="450" class="cc">. </tspan><tspan class="key">Passion</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Brain Tumor Detection from MRI</tspan>
+<tspan x="400" y="470" class="cc">. </tspan><tspan class="key">Passion</tspan>.<tspan class="key">Architecture</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Microservices &amp; Event-Driven</tspan>
+<tspan x="400" y="490" class="cc">. </tspan><tspan class="key">Passion</tspan>.<tspan class="key">IoT</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Smart City &amp; Sustainability</tspan>
+<tspan x="400" y="510"></tspan>- Contact —————————————————————————————————————————————
+<tspan x="400" y="530" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">dilan-dilruksha</tspan>
+<tspan x="400" y="550" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">d_ilan_dilruksha</tspan>
+</text>
+</svg>
