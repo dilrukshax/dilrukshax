@@ -1,70 +1,37 @@
-# :zap: Dilan Dilruksha
+## Dilan Dilruksha
 
-`Software Engineer` `AI/ML` `full-stack development` `ASP.NET Core` `C#` `Spring Boot` `Java` `DevOps`
+Software Engineer | Backend & Full-Stack Development
 
-<p align='left'>Hi! My name is Dilan Dilruksha, and I am a passionate Software Engineer specializing in crafting innovative, user-friendly software solutions. With expertise in full-stack development and a strong foundation in modern frameworks like React, Angular, and ASP.NET Core, I excel at building scalable, robust applications that address real-world challenges.
-Alongside development, I am skilled in DevOps practices, including Docker containerization, Kubernetes orchestration, Azure DevOps, GitHub Actions, and AWS EKS deployments. I design and maintain CI/CD pipelines, automate releases, and manage cloud infrastructure on Azure and AWS for high availability and scalability.  
-</p>
+Hi — I'm Dilan. I design and build backend-heavy SaaS platforms and full-stack applications, with a particular focus on multi-tenant architectures, secure data isolation, and API-driven products. My day-to-day work spans .NET / ASP.NET Core and Java / Spring Boot backends, TypeScript and React/Angular frontends, PostgreSQL, containerized deployments on Docker, and CI/CD pipelines on Azure and AWS.
 
-#
+Alongside product engineering, I work on AI-agent integrations — building local multi-agent assistants, human-in-the-loop workflows, and LLM-backed services that slot into larger platforms without breaking the reliability story.
 
-<p align="center"
-  
-[![Behance](https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/8d5d1118) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/d_ilan_dilruksha) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilan-dilruksha) 
+### Focus areas
 
-</p>
+- Backend & full-stack development (ASP.NET Core, Spring Boot, Node.js)
+- Multi-tenant SaaS architecture with strict tenant isolation (PostgreSQL RLS, schema-per-tenant)
+- API design (REST, GraphQL) and integrations (Stripe, Kafka, OAuth)
+- Cloud & DevOps — Docker, Kubernetes, Azure DevOps, GitHub Actions, AWS EKS
+- AI-agent systems and LLM integrations with human approval workflows
 
-#
+### Selected portfolio projects
 
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="45" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="45" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="45" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="45" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="45" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="45" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="45" />
-</p>
+A few projects that reflect the kind of work I enjoy most:
 
-#
+- **[tourism-saas](https://github.com/dilrukshax/tourism-saas)** — Multi-tenant, security-hardened SaaS for inbound tour operators and DMCs with PostgreSQL RLS tenant isolation, human-in-the-loop AI sales, and Temporal workflows.
+- **[iroh-platform](https://github.com/dilrukshax/iroh-platform)** — Multi-tenant SaaS for managing customer interactions across multiple communication channels with tenant isolation and data security.
+- **[website-build](https://github.com/dilrukshax/website-build)** — Multi-tenant SaaS website builder and booking platform for service-based businesses.
+- **[Project-GuruPay](https://github.com/dilrukshax/Project-GuruPay)** — Multi-tenant tuition management platform combining student management, attendance, payments, and community tools.
+- **[SaaS-DocPaySystem](https://github.com/dilrukshax/SaaS-DocPaySystem)** — Cloud-native document and payment management platform with AI-driven approval workflows, .NET 8 microservices, Angular, and Kubernetes.
+- **[food-delivery-system](https://github.com/dilrukshax/food-delivery-system)** — Full-stack microservices food ordering & delivery platform built with Spring Boot, Angular, Kafka, Stripe, and AWS.
+- **[epecps](https://github.com/dilrukshax/epecps)** — Enterprise employee evaluation and career progression system with Azure AD authentication, built with .NET 8 and Angular.
+- **[smart-irrigation-system](https://github.com/dilrukshax/smart-irrigation-system)** — Integrated smart irrigation system with predictive capabilities using IoT and machine learning.
+- **[desk-as-buttons](https://github.com/dilrukshax/desk-as-buttons)** — Turn a desk surface into programmable buttons using acoustic tap detection through the laptop microphone — software only, no hardware.
 
-<!-- <p align="center">
+More repositories below — including full-stack apps, microservices demos, and academic projects from earlier in my career.
 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+### Connect
 
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-
-</p> -->
+- Portfolio: [dilandilruksha.dev](https://dilandilruksha.dev)
+- LinkedIn: [linkedin.com/in/dilan-dilruksha](https://www.linkedin.com/in/dilan-dilruksha)
+- GitHub: [github.com/dilrukshax](https://github.com/dilrukshax)
