@@ -1,234 +1,70 @@
-
-<div align="center">
-
 # Dilan Dilruksha
 
-`SOFTWARE ENGINEER` · `BACKEND` · `FULL-STACK` · `AI` · `CLOUD`
+`Software Engineer` `AI/ML` `full-stack development` `ASP.NET Core` `C#` `Spring Boot` `Java` `DevOps`
 
-<br/>
+<p align='left'>Hi! My name is Dilan Dilruksha, and I am a passionate Software Engineer specializing in crafting innovative, user-friendly software solutions. With expertise in full-stack development and a strong foundation in modern frameworks like React, Angular, and ASP.NET Core, I excel at building scalable, robust applications that address real-world challenges.
+Alongside development, I am skilled in DevOps practices, including Docker containerization, Kubernetes orchestration, Azure DevOps, GitHub Actions, and AWS EKS deployments. I design and maintain CI/CD pipelines, automate releases, and manage cloud infrastructure on Azure and AWS for high availability and scalability.  
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=6E7681&center=true&vCenter=true&width=620&lines=building+software+that+ships.;designing+systems+that+scale.;keeping+the+codebase+maintainable.;backend+%2F+saas+%2F+ai+%2F+cloud)](https://git.io/typing-svg)
+#
 
-<br/>
+<p align="center"
+  
+[![Behance](https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/8d5d1118) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/d_ilan_dilruksha) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilan-dilruksha) 
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-dilandilruksha.dev-181717?style=flat-square&logo=vercel&logoColor=white)](https://dilandilruksha.dev)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Dilan_Dilruksha-181717?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilan-dilruksha)
-[![Email](https://img.shields.io/badge/EMAIL-Contact-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:dilandilruksha0@gmail.com)
+</p>
 
-</div>
+#
 
-<br/>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="45" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="45" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="45" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="45" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="45" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="45" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="45" />
+</p>
 
----
+#
 
-### `01 / engineer`
+<!-- <p align="center">
 
-```txt
-dilan@github:~$ whoami
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-Software Engineer building backend, full-stack,
-AI-assisted and cloud-native software systems.
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
-focus      -> backend / saas / ai / distributed systems
-approach   -> ship / measure / improve / maintain
-interface  -> APIs / web apps / real-time workflows
-platform   -> Azure / AWS / Docker / Kubernetes
-````
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
 
----
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
-### `02 / stack`
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-<div align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="47" height="47" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="47" height="47" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="47" height="47" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="47" height="47" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="47" height="47" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="47" height="47" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="Database" width="47" height="47" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="47" height="47" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="47" height="47" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="47" height="47" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="47" height="47" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="47" height="47" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-</div>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
-```yaml
-stack:
-  backend:
-    - ASP.NET Core
-    - FastAPI
-    - Node.js
-    - Spring Boot
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
-  frontend:
-    - Next.js
-    - React
-    - Angular
-    - Blazor
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-  data:
-    - SQL Server
-    - PostgreSQL
-    - MySQL
-    - MongoDB
-    - Redis
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
 
-  engineering:
-    - REST APIs
-    - Multi-Tenant SaaS
-    - Microservices
-    - Event-Driven Architecture
-    - WebSockets
-    - RBAC
-    - JWT Authentication
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
-  cloud:
-    - Azure
-    - AWS
-    - Docker
-    - Kubernetes
-    - GitHub Actions
-    - Azure DevOps
-    - CI/CD
-```
-
----
-
-### `03 / system.map`
-
-```mermaid
-flowchart LR
-
-    UI["WEB CLIENT"]
-    API["API LAYER"]
-    CORE["APPLICATION CORE"]
-    DATA["DATA"]
-    ASYNC["ASYNC / REAL-TIME"]
-    AI["AI / AUTOMATION"]
-    CLOUD["CLOUD"]
-
-    UI --> API
-    API --> CORE
-
-    CORE --> DATA
-    CORE --> ASYNC
-    CORE --> AI
-
-    DATA --> CLOUD
-    ASYNC --> CLOUD
-    AI --> CLOUD
-```
-
-<div align="center">
-
-`Next.js / Angular / React`
-  →  
-`ASP.NET Core / FastAPI`
-  →  
-`PostgreSQL / Redis`
-  →  
-`Docker / Cloud`
-
-</div>
-
----
-
-### `04 / runtime`
-
-```python
-class Engineer:
-    name = "Dilan Dilruksha"
-    role = "Software Engineer"
-
-    def __init__(self):
-        self.building = [
-            "backend systems",
-            "multi-tenant platforms",
-            "full-stack applications",
-            "AI-assisted workflows",
-            "cloud-native software",
-        ]
-
-        self.principles = [
-            "reliable",
-            "scalable",
-            "maintainable",
-            "observable",
-        ]
-
-    def ship(self):
-        return "design -> build -> test -> deploy -> improve"
-```
-
----
-
-### `05 / engineering.loop`
-
-```mermaid
-flowchart LR
-
-    A["01<br/>DESIGN"]
-    B["02<br/>BUILD"]
-    C["03<br/>TEST"]
-    D["04<br/>SHIP"]
-    E["05<br/>OBSERVE"]
-    F["06<br/>IMPROVE"]
-
-    A --> B --> C --> D --> E --> F
-    F -.-> A
-```
-
----
-
-### `06 / current.state`
-
-```txt
-STATUS     online
-MODE       building
-LOCATION   Colombo, Sri Lanka
-
-INTERESTS
-├── backend architecture
-├── distributed systems
-├── multi-tenant SaaS
-├── AI-native applications
-├── cloud infrastructure
-└── developer tooling
-```
-
----
-
-### `07 / connect`
-
-<div align="center">
-
-```txt
-Have an interesting engineering problem?
-Let's build something useful.
-```
-
-[![Portfolio](https://img.shields.io/badge/VIEW_WORK-181717?style=for-the-badge\&logo=vercel\&logoColor=white)](https://dilandilruksha.dev)
-[![LinkedIn](https://img.shields.io/badge/CONNECT-181717?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/dilan-dilruksha)
-
-<br/><br/>
-
-<sub>software that ships · systems that scale · code that stays maintainable</sub>
-
-</div>
+</p> -->
