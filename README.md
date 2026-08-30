@@ -1,70 +1,105 @@
+<div align="center">
+
 # Dilan Dilruksha
 
-`Software Engineer` `AI/ML` `full-stack development` `ASP.NET Core` `C#` `Spring Boot` `Java` `DevOps`
+### Software Engineer | Backend & Full-Stack Development | AI-Enabled Systems
 
-<p align='left'>Hi! My name is Dilan Dilruksha, and I am a passionate Software Engineer specializing in crafting innovative, user-friendly software solutions. With expertise in full-stack development and a strong foundation in modern frameworks like React, Angular, and ASP.NET Core, I excel at building scalable, robust applications that address real-world challenges.
-Alongside development, I am skilled in DevOps practices, including Docker containerization, Kubernetes orchestration, Azure DevOps, GitHub Actions, and AWS EKS deployments. I design and maintain CI/CD pipelines, automate releases, and manage cloud infrastructure on Azure and AWS for high availability and scalability.  
-</p>
+`C#` `ASP.NET Core` `Python` `FastAPI` `TypeScript` `Next.js` `Angular` `Cloud & DevOps`
 
-#
+[![Portfolio](https://img.shields.io/badge/Portfolio-dilandilruksha.dev-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://dilandilruksha.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dilan_Dilruksha-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/dilan-dilruksha)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dilandilruksha0@gmail.com)
 
-<p align="center"
-  
-[![Behance](https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/8d5d1118) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/d_ilan_dilruksha) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilan-dilruksha) 
+</div>
 
-</p>
 
-#
 
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="45" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="45" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="45" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="45" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="45" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="45" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="45" />
-</p>
+## About Me
 
-#
+Software Engineer with **1.5+ years of professional experience** in backend development, full-stack engineering, AI-enabled applications, and system design.
 
-<!-- <p align="center">
+Experienced in building **multi-tenant SaaS platforms, distributed and real-time systems, secure REST APIs, AI-agent workflows, and cloud-native applications** using Python, FastAPI, C#, ASP.NET Core, TypeScript, Next.js, Docker, Kubernetes, Azure, and AWS.
 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+Focused on building scalable products around **backend engineering, AI automation, distributed systems, developer tooling, SaaS platforms, and cloud infrastructure**.
 
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+## Tech Stack
 
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<div align="center">
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://skillicons.dev/icons?i=python,cs,go,java,js,ts,dotnet,fastapi,spring,nodejs,express,nextjs,react,angular,html,css,postgres,mysql,mongodb,redis,sqlite,azure,aws,docker,kubernetes,githubactions,git,github,nginx,visualstudio,vscode,postman,linux,bash" />
 
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</div>
 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+## Engineering
 
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<div align="center">
 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+`REST APIs`
+`Microservices`
+`Distributed Systems`
+`Event-Driven Architecture`
+`Apache Kafka`
+`WebSockets`
+`MQTT`
+`Webhooks`
+`Multi-Tenant SaaS`
+`System Design`
+`RBAC`
+`JWT Authentication`
+`Background Processing`
+`CI/CD`
+`Cloud Architecture`
+`API Design`
+`Database Optimization`
 
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+</div>
 
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
-</p> -->
+
+## AI Engineering
+
+<div align="center">
+
+`AI Agents`
+`RAG`
+`LLM Integration`
+`OpenAI APIs`
+`Anthropic APIs`
+`Gemini`
+`Embeddings`
+`Retrieval`
+`Conversational Memory`
+`Intent Routing`
+`Agent Workflows`
+`Tool Execution`
+
+</div>
+
+
+
+## Current Focus
+
+```text
+Backend Engineering        ASP.NET Core · FastAPI · Node.js
+Full-Stack Development     Next.js · React · Angular · TypeScript
+AI Systems                 AI Agents · RAG · LLM Integrations
+Distributed Systems        Microservices · Kafka · WebSockets · Event-Driven
+Cloud & DevOps             Azure · AWS · Docker · Kubernetes · CI/CD
+Architecture               Multi-Tenant SaaS · System Design · Secure APIs
+```
+
+
+
+<div align="center">
+
+### Connect With Me
+
+[Portfolio](https://dilandilruksha.dev) ·
+[LinkedIn](https://linkedin.com/in/dilan-dilruksha) ·
+[GitHub](https://github.com/dilrukshax) ·
+[Email](mailto:dilandilruksha0@gmail.com)
+
+</div>
